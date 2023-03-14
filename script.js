@@ -1,3 +1,4 @@
+// Password Generator
 // Assignment Code
 console.log(document);
 var generateBtn = document.querySelector("#generate");
